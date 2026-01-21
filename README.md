@@ -10,11 +10,11 @@ This is the React Weather App project it provides real-time weather updates for 
 - **Custom Fonts:** Modern and stylish look with Google Fonts integration.
 
 ## Technologies Used
-- **React :** A JavaScript library for building user interfaces.
-- **Tailwind CSS :** A utility-first CSS framework for rapid UI development.
-- **OpenWeather API :** Provides comprehensive weather data.
-- **Axios :** A promise-based HTTP client for the browser and Node.js.
-- **Vercel :** A website to deploy your projects on web.
+- **React:** A JavaScript library for building user interfaces.
+- **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+- **OpenWeather API:** Provides comprehensive weather data.
+- **Axios:** A promise-based HTTP client for the browser and Node.js.
+- **Vercel:** A website to deploy your projects on web.
 
 ## Deploy on Vercel
  - **Deployed Link** - ``

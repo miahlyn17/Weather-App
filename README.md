@@ -17,7 +17,7 @@ This is the React Weather App project it provides real-time weather updates for 
 - **Vercel :** A website to deploy your projects on web.
 
 ## Deploy on Vercel
- - **Deployed Link** - `https://weather-app-self-chi-85.vercel.app/`
+ - **Deployed Link** - ``
 
 ## Usage
 - Enter the **name of a city** or **country** in the search bar and press enter.
